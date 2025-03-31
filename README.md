@@ -35,7 +35,7 @@ EosNet is a powerful tool for predicting the properties of structures. In this p
 ```
 📦 EosNet_Clathrate_Project
  ┣ 📂 superconductor/       # Example dataset for training EOSNet
- ┣ 📂 type1_clathrate/      # Generated Type-I Metal-B-C clathrate structures
+ ┣ 📂 type1_clathrate/      # Generated Type-I B-C clathrate structures
  ┣ 📜 modify.py             # Script to modify clathrate structures
  ┣ 📜 opt.py                # Optimization script using MatterSim
  ┗ 📜 README.md             # This documentation
